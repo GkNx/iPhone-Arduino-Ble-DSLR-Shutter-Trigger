@@ -2,6 +2,9 @@
   iPhone, Arduino Shutter Trigger sketch for Shutter Trigger Ble iOS app.
  
  created on May 2015 by GkN
+ 
+ iPhone Application : https://itunes.apple.com/tr/app/dslr-shutter-trigger-ble/id993814293?mt=8
+ 
  Check http://gokhan.in/blog/ble-shutter-trigger-for-iphone-and-arduino/ for schematics and fritzing designs.
  
  Sound trigger mode;
